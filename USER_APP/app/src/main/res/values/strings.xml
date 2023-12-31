@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UserApp</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Shahjalal University of Science and Technology (SUST) is one of the leading public research universities in Bangladesh. Established in 1986, SUST has made significant contributions to the advancement of science and technology in the country. The university sprawling campus is situated in a scenic location in Sylhet, and is home to seven faculties that offer undergraduate and postgraduate programs in a range of fields. SUST is known for its excellent facilities, including well-equipped laboratories, modern lecture halls, and a central library. The university has a strong research culture and is home to a number of research centers that focus on cutting-edge research in various fields. With a diverse and vibrant student community, SUST provides a stimulating environment for learning and personal growth. Overall, SUST is a prestigious institution that has established itself as a center of excellence for higher education and research in Bangladesh.  </string>
+</resources>
